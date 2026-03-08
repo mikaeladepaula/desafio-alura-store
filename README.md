@@ -1,6 +1,7 @@
 # 📊 Alura Store: Análise de Eficiência e Desempenho
 
 ### ✨ Projeto finalizado! ✨
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mikaeladepaula/desafio-alura-store/blob/main/AluraStoreBrasil.ipynb)
 
 ## 📝 Descrição do Projeto
 
