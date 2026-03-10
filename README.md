@@ -60,4 +60,4 @@ Após o cruzamento de todas as métricas de desempenho, minha recomendação est
 **Mikaela de Paula**
 
 [![GitHub](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikaeladepaula)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikaela-de-paula/)
+
